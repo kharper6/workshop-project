@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: kharper6_practice
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kat
+    family-names: Rockwood
+    email: kharper6@arizona.edu
+    affiliation: University of Arizona
+repository-code: 'https://github.com/kharper6/workshop-project'
+abstract: >-
+  Practice citation for Fall 2024 Reproducibility in R
+  Workshop
